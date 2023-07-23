@@ -1,2 +1,2 @@
 lorem ipsum
-foo
+foobar
